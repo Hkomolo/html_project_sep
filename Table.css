@@ -1,0 +1,21 @@
+table{
+    font-family: Arial;
+    width: 100%;
+    color: white;
+    border-collapse: collapse;
+}
+td,th{
+    border: 2px dashed black;
+    padding: 10px;
+    text-align: center;
+}
+tr:nth-child(even){
+    background-color: rgba(52, 49, 49, 0.57);
+}
+th{
+    background-color: black;
+    color: white;
+}
+body{
+    background-color: lightblue;
+}

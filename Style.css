@@ -1,0 +1,16 @@
+h1{
+    color: blue;
+    font-family: "Arial Black";
+    font-size: 25px;
+    text-align: center;
+}
+p{
+    color: beige;
+    font-family: "Arial Black";
+    font-size: 16px;
+}
+body{
+    background-image: url("IMAGES/MG 8.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

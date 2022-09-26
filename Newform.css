@@ -1,0 +1,26 @@
+h1{
+    color: #4545a1;
+    font-family: Arial;
+    padding: 16px;
+    text-align: center;
+
+}
+input[type=text],select{
+    border: 1px solid #8c8585;
+    padding: 16px;
+    margin: 8px 0;
+    width: 50%;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=submit]{
+    background-color: #5454b2;
+    color: white;
+    width: 50%;
+    font-size: medium;
+    padding: 16px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
